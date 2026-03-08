@@ -1,0 +1,5 @@
+{
+  "name": "Kindle Clippings Manager",
+  "description": "A tool to parse, organize, and annotate your Kindle My Clippings.txt files.",
+  "requestFramePermissions": []
+}
