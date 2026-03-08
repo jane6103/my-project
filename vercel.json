@@ -1,2 +1,8 @@
-{ "rewrites": [ { "source": "/api/dav/:match*", "destination": "https://dav.jianguoyun.com/dav/" } ] }
-
+{
+"rewrites": [
+{
+"source": "/api/dav/:match*",
+"destination": "https://dav.jianguoyun.com/dav/KindleNotes/match*"
+}
+]
+}
