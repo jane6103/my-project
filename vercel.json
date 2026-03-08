@@ -1,2 +1,2 @@
-{ "rewrites": [ { "source": "/api/dav/:match*", "destination": "https://dav.jianguoyun.com/dav/:match*" } ] }
+{ "rewrites": [ { "source": "/api/dav/:match*", "destination": "https://dav.jianguoyun.com/dav/" } ] }
 
